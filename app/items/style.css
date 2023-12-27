@@ -1,0 +1,14 @@
+.items-content {
+}
+.item {
+  border: 1px solid grey;
+  margin-top: 40px;
+  padding: 30px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  cursor: pointer;
+  border-radius: 10px;
+  text-decoration: none;
+  color: black;
+}

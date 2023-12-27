@@ -1,0 +1,23 @@
+header {
+  background-color: grey;
+  padding: 20px;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+}
+
+.header-content {
+  display: flex;
+  justify-content: space-between;
+  color: white;
+}
+
+.header-content a {
+  color: white;
+  text-decoration: none;
+}
+.header-content a:hover {
+  text-decoration: underline;
+}
